@@ -96,7 +96,7 @@ $ yarn start
 | Goal                    |  Progress         | Status |
 | ------------- |:-------------:| -----:|
 | Disable the square already clicked  | :hourglass_flowing_sand: | coming soon |
-| Refresh game buttom  | :hourglass_flowing_sand: | coming soon |
+| Refresh game button  | :hourglass_flowing_sand: | coming soon |
 | Improve design  | :hourglass_flowing_sand: | coming soon |
 
 ## :memo: License ##
