@@ -6,7 +6,7 @@
   <!-- <a href="https://assignments.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Tic-tac-Toe Game</h1>
+<h1 align="center">Tic-Tac-Toe Game</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/agusroig/assignments?color=56BEB8">
@@ -95,7 +95,7 @@ $ yarn start
 
 | Goal                    |  Progress         | Status |
 | ------------- |:-------------:| -----:|
-| disable the square already clicked  | :hourglass_flowing_sand: | coming soon |
+| Disable the square already clicked  | :hourglass_flowing_sand: | coming soon |
 | Refresh game buttom  | :hourglass_flowing_sand: | coming soon |
 | Improve design  | :hourglass_flowing_sand: | coming soon |
 
