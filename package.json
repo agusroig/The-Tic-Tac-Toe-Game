@@ -1,9 +1,12 @@
 {
+  "homepage":"http://agusroig.github.io/The-Tic-Tac-Toe-Game",
   "name": "assignments",
   "version": "1.0.0",
   "description": "week7 assignments unit test",
   "main": "index.js",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
     "test": "jest"
   },
   "jest": {
@@ -18,5 +21,8 @@
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
     "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
